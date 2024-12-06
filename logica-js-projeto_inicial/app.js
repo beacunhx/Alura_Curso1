@@ -24,3 +24,5 @@ while (numeroDigitado != numeroSecreto) {
 let palavraTentativa = tentativas > 1 ? 'tentativas' : 'tentativa';
 
 alert(`Isso aí! Você descobriu o número secreto ${numeroSecreto} com ${tentativas} ${palavraTentativa}!`);
+
+//teste de commit
